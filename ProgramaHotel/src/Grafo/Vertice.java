@@ -1,16 +1,6 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package Grafo;
 
-/**
- *
- * @author Luis Stanislao
- */
-public class Vertice {//Vertice se refiere a cada cliente y su informacion
-
+public class Vertice {
     private String Nombre;
     private int NumVertice;
     private String Calle;
